@@ -1,4 +1,4 @@
-# typst-langs-dump
+# typst-raw-lang-tags
 
 A tiny tool that prints the output of `typst::text::RawElem::languages()`.
 Use it to inspect language names and tags (mostly extension-derived tokens)

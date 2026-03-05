@@ -2010,13 +2010,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "typst-langs-dump"
-version = "0.1.0"
-dependencies = [
- "typst",
-]
-
-[[package]]
 name = "typst-layout"
 version = "0.14.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2128,6 +2121,13 @@ dependencies = [
  "proc-macro2",
  "quote",
  "syn",
+]
+
+[[package]]
+name = "typst-raw-lang-tags"
+version = "0.1.0"
+dependencies = [
+ "typst",
 ]
 
 [[package]]
