@@ -4,6 +4,8 @@ A tiny tool that prints the output of `typst::text::RawElem::languages()`.
 Use it to inspect language names and tags (mostly extension-derived tokens)
 accepted by Typst `raw` code-block highlighting.
 
+You can see the available tags [here](https://github.com/ultimatile/typst-raw-lang-tags/blob/master/result.md).
+
 ## Usage
 
 ```bash
