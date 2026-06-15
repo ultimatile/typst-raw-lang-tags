@@ -5,4 +5,4 @@ edition = "2024"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
-typst = "=0.14.2"
+typst = "=0.15.0"
